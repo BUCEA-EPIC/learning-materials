@@ -18,8 +18,9 @@
 
 **总结：** 这条路线遵循了"先应用后原理"的现代学习规律，先用HAL库快速做出成果建立信心，再回过头来钻研底层，从而做到知其然也知其所以然。
 
+## ROS学习路线
+B站UP主 **[机器人工匠阿杰](https://space.bilibili.com/411541289)** 的 **[机器人操作系统 ROS 快速入门教程](https://www.bilibili.com/video/BV1BP4y1o7pw)** 。
+
 ## PCB设计学习路线
 
 ## SolidWorks学习路线
-
-## ROS学习路线
