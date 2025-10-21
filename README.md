@@ -21,6 +21,6 @@
 ## ROS学习路线
 B站UP主 **[机器人工匠阿杰](https://space.bilibili.com/411541289)** 的 **[机器人操作系统 ROS 快速入门教程](https://www.bilibili.com/video/BV1BP4y1o7pw)** 。
 
-## PCB设计学习路线
+## 电力电子设计学习路线
 
 ## SolidWorks学习路线
